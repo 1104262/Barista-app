@@ -50,7 +50,6 @@ Visit the web application in the browser
 http://localhost:5173/
 ```
 ### Notes
-In this project, I learned to creat React Forms and dynamically populate user-input choices. In addition, I learned to use state variables to edit information on a page.
 
 ---
 
