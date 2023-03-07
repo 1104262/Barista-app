@@ -10,9 +10,8 @@ The game will generate a new drink order for you and ask you to compose it. You 
 
 ## Project Demo
 
-<img src="https://github.com/gabrielaliera/barista-app/blob/master/barista-walkthrough.gif" title='Video Demo' width='' alt='Video Demo' />
+<img src="http://g.recordit.co/v5vVoxWlK1.gif" title='Video Demo' width='' alt='Video Demo' />
 
-GIF http://g.recordit.co/v5vVoxWlK1.gif
 
 
 ## Setup
